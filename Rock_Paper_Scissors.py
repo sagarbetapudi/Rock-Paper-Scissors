@@ -46,7 +46,7 @@ while True:
         result = "Scissors"
 
     if result == "DRAW":
-        print("<== It"s a tie! ==>")
+        print("<== It's a tie! ==>")
     elif result == choice_name:
         print("<== User wins! ==>")
     else:
